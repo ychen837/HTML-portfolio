@@ -1,0 +1,205 @@
+html
+{
+	font-family: cursive;
+	background-image: url(image/40980018.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+header
+{
+	word-spacing: 5px;
+	font-family: cursive;
+	text-align: center;
+}
+ul,ol
+{
+	font-size:16px;
+	list-style-type: square;
+}
+
+p
+{
+	font-size: 14px;
+	line-height: 17px;
+}
+aside
+{
+	float: right;
+	width: 20%;
+	border:1px solid black;
+	margin: 20px;
+	margin-left: 0px;
+	margin-right: 50px;
+	background-color:rgb(200,100,0);
+
+}
+article
+{	
+	float:left;
+	margin: 20px;
+	margin-left: 50px;
+	margin-right: 0px;
+	width:65%;
+
+
+}
+body
+{
+	margin: 0 auto;
+}
+a
+{
+	outline: none;
+	text-decoration: none;
+
+}
+a:visited
+{
+	text-decoration: none;
+	/*color:rgb(250,0,256);*/
+}
+a:active
+{
+	color:red;
+}
+li
+{
+
+}
+footer
+{
+	font-size: 15px;
+	line-height: 5px;
+	clear:both;
+	text-align: center;
+}
+article, aside
+{
+	padding:10px;
+}
+/**/
+/**/
+.title
+{
+	text-align: center;
+}
+.menu
+{
+	text-align: center;
+}
+.button1
+{
+outline:none;
+color:white;
+text-shadow:1px 1px 1px black;
+text-align:center;	  
+line-height: 0.6;
+font-family: monospace;
+display: inline-block;
+width:10.5%;
+}
+
+.button1:hover
+{
+	color:grey;
+	text-shadow: 1px 2px 1px grey;
+
+}
+.button1:visited
+{
+	text-decoration: none;
+}
+.text
+{
+	margin-left: 15px;
+	margin-right: 15px;
+	line-height: 1.2;
+}
+.newsmenu
+{
+	border:1px solid black;
+	
+	background-color: #987C4F;
+	padding-bottom: 20px;
+	
+
+}
+.button2
+{
+color:orange;
+display: block;
+height: 30px;
+
+}
+
+
+.button2:hover
+{
+	color:white;
+
+}
+
+.news
+{
+color:black;
+line-height: 0.8;
+}
+
+.footer,.header 
+{
+	border:1px ;
+	background-color: orange;
+	margin: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	padding: 0.1px;
+	line-height: 6px;
+}
+
+.menu
+{
+	border: 1px solid black;
+	background-color: #C67A3B;
+	margin: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 0px;
+	
+
+}
+.newstitle
+{
+	margin-left: 10px;
+}
+.aside
+{
+	height: 400px;
+
+}
+
+.content:hover
+{
+	color:grey;
+	background-color: yellow;
+}
+.block1
+{
+	border:0.5px solid black;
+	background-color: #C2A376;
+	margin:0.5px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+.project_box
+{
+	width: 650px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 20px;
+	margin: 20px;
+	background-color: #E9AD55;
+}
