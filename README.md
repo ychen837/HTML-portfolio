@@ -1,2 +1,2 @@
 # HTML-portfolio
-Yi's portfolio 
+Yi's HTML portfolio project
